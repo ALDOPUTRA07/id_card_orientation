@@ -1,4 +1,4 @@
-# KTP Classification
+# ID Card Orientation
 
 <br />
 <div align="center">

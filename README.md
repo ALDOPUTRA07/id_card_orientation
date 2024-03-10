@@ -44,6 +44,11 @@ This model uses the efficientnet CNN architecture.
 
 **Note:** This project is still in Jupyter Notebook form. The next step is to carry out the packaging and deploying code process.
 
+<div align="center">
+  <a href="">
+    <img src="static/Orientation.png">
+  </a>
+</div>
 
 
 ### Built With

@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project conducts training on the CNN model for orientation on ID cards. This model can rotate ID Card files or images, as in the image below. This model can help extract text from ID Cards.
+This project conducts training on the CNN model for orientation on ID cards. This model can rotate ID Card files or images, as in the image below. This model can be a first step to help extract text from ID Cards.
 
 Python libraries, such as Tesseract, can extract text from an image, but the image must be in the correct position to perform optimal extraction. With this model, it will be one of the steps that can be carried out before extracting text from images to get maximum extraction results.
 
